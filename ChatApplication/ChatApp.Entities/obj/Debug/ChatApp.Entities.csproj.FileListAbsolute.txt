@@ -1,0 +1,6 @@
+C:\Users\adil_\source\repos\ChatApplication\ChatApp.Entities\bin\Debug\ChatApp.Entities.dll
+C:\Users\adil_\source\repos\ChatApplication\ChatApp.Entities\bin\Debug\ChatApp.Entities.pdb
+C:\Users\adil_\source\repos\ChatApplication\ChatApp.Entities\obj\Debug\ChatApp.Entities.csprojAssemblyReference.cache
+C:\Users\adil_\source\repos\ChatApplication\ChatApp.Entities\obj\Debug\ChatApp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\adil_\source\repos\ChatApplication\ChatApp.Entities\obj\Debug\ChatApp.Entities.dll
+C:\Users\adil_\source\repos\ChatApplication\ChatApp.Entities\obj\Debug\ChatApp.Entities.pdb

@@ -1,0 +1,13 @@
+C:\Users\adil_\source\repos\ChatApplication\ChatApp.Business\bin\Debug\ChatApp.Business.dll
+C:\Users\adil_\source\repos\ChatApplication\ChatApp.Business\bin\Debug\ChatApp.Business.pdb
+C:\Users\adil_\source\repos\ChatApplication\ChatApp.Business\bin\Debug\ChatApp.DAL.dll
+C:\Users\adil_\source\repos\ChatApplication\ChatApp.Business\bin\Debug\ChatApp.Entities.dll
+C:\Users\adil_\source\repos\ChatApplication\ChatApp.Business\bin\Debug\ChatApp.DAL.pdb
+C:\Users\adil_\source\repos\ChatApplication\ChatApp.Business\bin\Debug\ChatApp.Entities.pdb
+C:\Users\adil_\source\repos\ChatApplication\ChatApp.Business\obj\Debug\ChatApp.Business.csprojAssemblyReference.cache
+C:\Users\adil_\source\repos\ChatApplication\ChatApp.Business\obj\Debug\ChatApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\adil_\source\repos\ChatApplication\ChatApp.Business\obj\Debug\ChatApp.Business.csproj.CopyComplete
+C:\Users\adil_\source\repos\ChatApplication\ChatApp.Business\obj\Debug\ChatApp.Business.dll
+C:\Users\adil_\source\repos\ChatApplication\ChatApp.Business\obj\Debug\ChatApp.Business.pdb
+C:\Users\adil_\source\repos\ChatApplication\ChatApp.Business\bin\Debug\ChatApp.Business.dll.config
+C:\Users\adil_\source\repos\ChatApplication\ChatApp.Business\bin\Debug\ChatApp.DAL.dll.config
